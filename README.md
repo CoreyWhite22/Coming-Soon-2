@@ -1,3 +1,5 @@
 # Coming-Soon-2
 
-Mobile-friendly coming soon page.
+<img src="pic7.png" width='300'/>
+
+Example page. -Mobile-Friendly
