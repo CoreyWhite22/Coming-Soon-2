@@ -2,4 +2,4 @@
 
 <img src="pic7.png" width='300'/>
 
-Example page. -Mobile-Friendly
+-Example page -Mobile-Friendly
